@@ -1,0 +1,334 @@
+2019-04-16 18:18:09,824 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 22616 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:18:09,847 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:18:10,533 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:18:10,571 [main]  INFO Finished Spring Data repository scanning in 34ms. Found 1 repository interfaces.
+2019-04-16 18:18:10,735 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9e88b5f6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:18:11,094 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:18:11,107 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:18:11,107 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:18:11,209 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:18:11,209 [main]  INFO Root WebApplicationContext: initialization completed in 1340 ms
+2019-04-16 18:18:11,301 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:18:11,840 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:18:11,928 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:18:11,972 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:18:11,973 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:18:12,065 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:18:12,151 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:18:13,984 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:18:14,946 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:18:14,979 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:18:15,135 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:18:15,137 [main]  INFO Started PaymentApplication in 5.509 seconds (JVM running for 8.026)
+2019-04-16 18:19:44,662 [http-nio-8080-exec-1]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 18:19:44,664 [http-nio-8080-exec-1]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 18:19:44,723 [http-nio-8080-exec-1]  INFO Completed initialization in 36 ms
+2019-04-16 18:19:44,829 [http-nio-8080-exec-1]  INFO Headersnull
+2019-04-16 18:20:03,746 [http-nio-8080-exec-2]  INFO Headersnull
+2019-04-16 18:20:22,296 [http-nio-8080-exec-3]  INFO Headersnull
+2019-04-16 18:22:07,714 [http-nio-8080-exec-5]  INFO Headersnull
+2019-04-16 18:23:11,426 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 4900 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:23:11,428 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:23:11,921 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:23:11,960 [main]  INFO Finished Spring Data repository scanning in 35ms. Found 1 repository interfaces.
+2019-04-16 18:23:12,127 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ed5170f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:23:12,283 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:23:12,295 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:23:12,295 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:23:12,392 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:23:12,392 [main]  INFO Root WebApplicationContext: initialization completed in 935 ms
+2019-04-16 18:23:12,488 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:23:12,564 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:23:12,633 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:23:12,666 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:23:12,667 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:23:12,736 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:23:12,810 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:23:13,307 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:23:13,680 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:23:13,703 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:23:13,806 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:23:13,807 [main]  INFO Started PaymentApplication in 2.556 seconds (JVM running for 3.097)
+2019-04-16 18:23:20,778 [http-nio-8080-exec-1]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 18:23:20,778 [http-nio-8080-exec-1]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 18:23:20,782 [http-nio-8080-exec-1]  INFO Completed initialization in 4 ms
+2019-04-16 18:23:20,789 [http-nio-8080-exec-1]  INFO Headersnull
+2019-04-16 18:23:23,161 [http-nio-8080-exec-1]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "0t1zpRA7ETSWc1PQ1UxtCWYtANWe",
+  "expires_in" : "3599"
+}
+2019-04-16 18:23:23,450 [http-nio-8080-exec-1]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "zbkwCawXtRQET43cL6OzuBQ2r8nU",
+  "expires_in" : "3599"
+}
+2019-04-16 18:23:23,810 [http-nio-8080-exec-1]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"conversationID":"AG_20190416_00004d777a9a1ace6e1f","responseDescription":"Accept the service request successfully.","originatorConverstionID":null,"OriginatorConverstionID":null,"ConversationID":"AG_20190416_00004d777a9a1ace6e1f","ResponseDescription":"Accept the service request successfully."}
+2019-04-16 18:26:47,144 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 19568 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:26:47,147 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:26:47,600 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:26:47,645 [main]  INFO Finished Spring Data repository scanning in 40ms. Found 1 repository interfaces.
+2019-04-16 18:26:47,819 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4631015d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:26:47,985 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:26:47,997 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:26:47,998 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:26:48,093 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:26:48,094 [main]  INFO Root WebApplicationContext: initialization completed in 920 ms
+2019-04-16 18:26:48,191 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:26:48,251 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:26:48,323 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:26:48,357 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:26:48,358 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:26:48,430 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:26:48,505 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:26:48,844 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:26:49,147 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:26:49,181 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:26:49,272 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:26:49,273 [main]  INFO Started PaymentApplication in 2.297 seconds (JVM running for 2.836)
+2019-04-16 18:27:08,854 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 29664 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:27:08,856 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:27:09,226 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:27:09,265 [main]  INFO Finished Spring Data repository scanning in 35ms. Found 1 repository interfaces.
+2019-04-16 18:27:09,430 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ed5170f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:27:09,594 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:27:09,607 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:27:09,607 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:27:09,697 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:27:09,698 [main]  INFO Root WebApplicationContext: initialization completed in 813 ms
+2019-04-16 18:27:09,792 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:27:09,860 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:27:09,930 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:27:09,963 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:27:09,964 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:27:10,035 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:27:10,108 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:27:10,460 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:27:10,760 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:27:10,793 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:27:10,882 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:27:10,883 [main]  INFO Started PaymentApplication in 2.216 seconds (JVM running for 2.709)
+2019-04-16 18:27:56,699 [http-nio-8080-exec-1]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 18:27:56,699 [http-nio-8080-exec-1]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 18:27:56,703 [http-nio-8080-exec-1]  INFO Completed initialization in 4 ms
+2019-04-16 18:27:56,711 [http-nio-8080-exec-1]  INFO Headers null
+2019-04-16 18:27:57,574 [http-nio-8080-exec-1]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "TsGn4wi6cgxRjB8FVIGH2xDv1qoX",
+  "expires_in" : "3599"
+}
+2019-04-16 18:27:58,106 [http-nio-8080-exec-1]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "cR2KstzAEvOEGEdss6aoNSvAmPrE",
+  "expires_in" : "3599"
+}
+2019-04-16 18:27:58,489 [http-nio-8080-exec-1]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"conversationID":"AG_20190416_0000715bd83c0b3590cd","originatorConverstionID":null,"responseDescription":"Accept the service request successfully.","OriginatorConverstionID":null,"ConversationID":"AG_20190416_0000715bd83c0b3590cd","ResponseDescription":"Accept the service request successfully."}
+2019-04-16 18:29:44,025 [http-nio-8080-exec-3]  INFO Headers 
+2019-04-16 18:29:44,154 [http-nio-8080-exec-3]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "6HH3yG9XcCgOYy3GUGUT5c5LVthp",
+  "expires_in" : "3599"
+}
+2019-04-16 18:29:44,245 [http-nio-8080-exec-3]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "0BPVCLe3UzSOOSGSAHJHH5Xqr2pP",
+  "expires_in" : "3599"
+}
+2019-04-16 18:29:44,664 [http-nio-8080-exec-3]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"conversationID":"AG_20190416_000042b121e441fffc3d","originatorConverstionID":null,"responseDescription":"Accept the service request successfully.","OriginatorConverstionID":null,"ConversationID":"AG_20190416_000042b121e441fffc3d","ResponseDescription":"Accept the service request successfully."}
+2019-04-16 18:29:57,372 [http-nio-8080-exec-8]  INFO Headers 
+2019-04-16 18:29:57,488 [http-nio-8080-exec-8]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "HROQC9Dru8MMPdVURP0GXsNQdUDU",
+  "expires_in" : "3599"
+}
+2019-04-16 18:31:02,688 [http-nio-8080-exec-6]  INFO Headers 
+2019-04-16 18:31:02,778 [http-nio-8080-exec-6]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "BgZtBiJx1JvctLtoTFOG8zRxza1C",
+  "expires_in" : "3599"
+}
+2019-04-16 18:31:16,053 [http-nio-8080-exec-7]  INFO Headers 
+2019-04-16 18:31:16,140 [http-nio-8080-exec-7]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "fHbVoD9HIOV4KPv4Aud3yHmilXM2",
+  "expires_in" : "3599"
+}
+2019-04-16 18:31:16,260 [http-nio-8080-exec-7]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "Bu0bwVvp5fbN9KtE6DcArQ3Bge2s",
+  "expires_in" : "3599"
+}
+2019-04-16 18:31:16,648 [http-nio-8080-exec-7]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"conversationID":"AG_20190416_000050f5956f8e90cb04","originatorConverstionID":null,"responseDescription":"Accept the service request successfully.","OriginatorConverstionID":null,"ConversationID":"AG_20190416_000050f5956f8e90cb04","ResponseDescription":"Accept the service request successfully."}
+2019-04-16 18:31:59,702 [http-nio-8080-exec-9]  INFO Headers 
+2019-04-16 18:31:59,804 [http-nio-8080-exec-9]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "IsZE0PtcwEB0NEiXLGmvZiWgIWqh",
+  "expires_in" : "3599"
+}
+2019-04-16 18:32:38,667 [http-nio-8080-exec-1]  INFO Headers 
+2019-04-16 18:32:38,796 [http-nio-8080-exec-1]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "FQwBwDejw7xseNOWw3XiJYd6qLAk",
+  "expires_in" : "3599"
+}
+2019-04-16 18:32:47,336 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 6460 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:32:47,338 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:32:47,736 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:32:47,776 [main]  INFO Finished Spring Data repository scanning in 36ms. Found 1 repository interfaces.
+2019-04-16 18:32:47,944 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1dc9ea26] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:32:48,135 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:32:48,148 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:32:48,148 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:32:48,233 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:32:48,233 [main]  INFO Root WebApplicationContext: initialization completed in 866 ms
+2019-04-16 18:32:48,316 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:32:48,376 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:32:48,439 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:32:48,479 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:32:48,479 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:32:48,552 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:32:48,626 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:32:48,934 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:32:49,227 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:32:49,249 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:32:49,344 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:32:49,345 [main]  INFO Started PaymentApplication in 2.193 seconds (JVM running for 2.696)
+2019-04-16 18:32:57,335 [http-nio-8080-exec-4]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 18:32:57,336 [http-nio-8080-exec-4]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 18:32:57,340 [http-nio-8080-exec-4]  INFO Completed initialization in 4 ms
+2019-04-16 18:32:57,348 [http-nio-8080-exec-4]  INFO Headers 
+2019-04-16 18:32:57,749 [http-nio-8080-exec-4]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "U24uZEZLOhFboq2PciOidmNb5dMW",
+  "expires_in" : "3599"
+}
+2019-04-16 18:33:26,867 [http-nio-8080-exec-6]  INFO Headers abcd
+2019-04-16 18:33:26,976 [http-nio-8080-exec-6]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "DJ4deqmFxBFjknQrcdlmrwl8uhb8",
+  "expires_in" : "3599"
+}
+2019-04-16 18:33:46,503 [http-nio-8080-exec-2]  INFO Headers abcd
+2019-04-16 18:33:46,617 [http-nio-8080-exec-2]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "VIMhyrzgBGWfr7yLxtZtbfAx6pyF",
+  "expires_in" : "3599"
+}
+2019-04-16 18:39:09,240 [http-nio-8080-exec-7]  WARN Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2019-04-16 18:39:09,254 [http-nio-8080-exec-7]  INFO Headers abcd
+2019-04-16 18:39:21,003 [http-nio-8080-exec-8]  INFO Headers abcd
+2019-04-16 18:39:21,126 [http-nio-8080-exec-8]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "kGiBnGTDCJXxH1wKpwGrUsMi0JjE",
+  "expires_in" : "3599"
+}
+2019-04-16 18:40:09,687 [http-nio-8080-exec-10]  INFO Headers abcd
+2019-04-16 18:40:09,931 [http-nio-8080-exec-10]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "VZGOO9TeJx4ZyLxZSdNV6KphQHN7",
+  "expires_in" : "3599"
+}
+2019-04-16 18:42:22,124 [http-nio-8080-exec-2]  INFO Headers abcd
+2019-04-16 18:42:22,219 [http-nio-8080-exec-2]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "mIESaprnNGweiiHokQBfaMlxcB5u",
+  "expires_in" : "3599"
+}
+2019-04-16 18:43:27,215 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 10244 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:43:27,217 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:43:27,617 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:43:27,657 [main]  INFO Finished Spring Data repository scanning in 36ms. Found 1 repository interfaces.
+2019-04-16 18:43:27,838 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5b1ee4d4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:43:28,005 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:43:28,019 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:43:28,019 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:43:28,127 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:43:28,127 [main]  INFO Root WebApplicationContext: initialization completed in 885 ms
+2019-04-16 18:43:28,210 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:43:28,270 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:43:28,340 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:43:28,373 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:43:28,374 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:43:28,445 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:43:28,520 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:43:28,831 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:43:29,125 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:43:29,147 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:43:29,242 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:43:29,243 [main]  INFO Started PaymentApplication in 2.217 seconds (JVM running for 2.701)
+2019-04-16 18:44:44,998 [http-nio-8080-exec-2]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 18:44:44,999 [http-nio-8080-exec-2]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 18:44:45,003 [http-nio-8080-exec-2]  INFO Completed initialization in 4 ms
+2019-04-16 18:44:45,011 [http-nio-8080-exec-2]  INFO Headers abcd
+2019-04-16 18:44:45,011 [http-nio-8080-exec-2]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 18:44:45,420 [http-nio-8080-exec-2]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "7PAlDSyBE4wgpkGcKZsulGHsvESt",
+  "expires_in" : "3599"
+}
+2019-04-16 18:56:39,963 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 26056 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:56:39,965 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:56:40,599 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:56:40,650 [main]  INFO Finished Spring Data repository scanning in 44ms. Found 1 repository interfaces.
+2019-04-16 18:56:40,993 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4d4a9d41] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:56:41,293 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:56:41,315 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:56:41,315 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:56:41,444 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:56:41,444 [main]  INFO Root WebApplicationContext: initialization completed in 1440 ms
+2019-04-16 18:56:41,666 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:56:41,786 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:56:41,827 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:56:41,894 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:56:41,895 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:56:41,995 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:56:42,196 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:56:42,758 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:56:43,293 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:56:43,366 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:56:43,521 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:56:43,523 [main]  INFO Started PaymentApplication in 3.834 seconds (JVM running for 4.428)
+2019-04-16 18:57:15,386 [http-nio-8080-exec-2]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 18:57:15,387 [http-nio-8080-exec-2]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 18:57:15,395 [http-nio-8080-exec-2]  INFO Completed initialization in 8 ms
+2019-04-16 18:57:15,409 [http-nio-8080-exec-2]  INFO Headers abcd
+2019-04-16 18:57:15,410 [http-nio-8080-exec-2]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 18:57:15,410 [http-nio-8080-exec-2]  INFO secret key not correct
+2019-04-16 18:57:16,006 [http-nio-8080-exec-2]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "m93cf8qbk1NiAAIKWkeQpGGO8CK3",
+  "expires_in" : "3599"
+}
+2019-04-16 18:57:16,296 [http-nio-8080-exec-2]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "C6r73pniNMBGvEUa4cXGHA7Z09Fg",
+  "expires_in" : "3599"
+}
+2019-04-16 18:57:16,718 [http-nio-8080-exec-2]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"responseDescription":"Accept the service request successfully.","conversationID":"AG_20190416_0000549afb2e9c30b286","originatorConverstionID":null,"OriginatorConverstionID":null,"ConversationID":"AG_20190416_0000549afb2e9c30b286","ResponseDescription":"Accept the service request successfully."}
+2019-04-16 18:57:33,024 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 8840 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 18:57:33,026 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 18:57:33,450 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 18:57:33,491 [main]  INFO Finished Spring Data repository scanning in 35ms. Found 1 repository interfaces.
+2019-04-16 18:57:33,655 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d4399979] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 18:57:33,813 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 18:57:33,825 [main]  INFO Starting service [Tomcat]
+2019-04-16 18:57:33,825 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 18:57:33,903 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 18:57:33,903 [main]  INFO Root WebApplicationContext: initialization completed in 847 ms
+2019-04-16 18:57:34,000 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 18:57:34,056 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 18:57:34,125 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 18:57:34,158 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 18:57:34,159 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 18:57:34,228 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 18:57:34,300 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 18:57:34,613 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 18:57:34,910 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 18:57:34,942 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 18:57:35,034 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 18:57:35,035 [main]  INFO Started PaymentApplication in 2.2 seconds (JVM running for 2.684)
+2019-04-16 18:57:43,905 [http-nio-8080-exec-5]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 18:57:43,905 [http-nio-8080-exec-5]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 18:57:43,910 [http-nio-8080-exec-5]  INFO Completed initialization in 4 ms
+2019-04-16 18:57:43,917 [http-nio-8080-exec-5]  INFO Headers abcd
+2019-04-16 18:57:43,918 [http-nio-8080-exec-5]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 18:57:43,918 [http-nio-8080-exec-5]  INFO secret key not correct
+2019-04-16 18:57:44,279 [http-nio-8080-exec-5]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "hEpw2zbnPXB6K9TN3xXmF1Zrg6iG",
+  "expires_in" : "3599"
+}

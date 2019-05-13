@@ -1,0 +1,28 @@
+2019-04-16 17:41:52,667 [main]  INFO Starting PaymentApplication on TRCM-ACDM9 with PID 5328 (C:\Users\nobed\Payment\target\classes started by nobed in C:\Users\nobed\Payment)
+2019-04-16 17:41:52,681 [main]  INFO No active profile set, falling back to default profiles: default
+2019-04-16 17:41:54,548 [main]  INFO Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-16 17:41:54,616 [main]  INFO Finished Spring Data repository scanning in 60ms. Found 1 repository interfaces.
+2019-04-16 17:41:54,824 [main]  INFO Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f0a985fd] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-16 17:41:55,218 [main]  INFO Tomcat initialized with port(s): 8080 (http)
+2019-04-16 17:41:55,235 [main]  INFO Starting service [Tomcat]
+2019-04-16 17:41:55,235 [main]  INFO Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-16 17:41:55,333 [main]  INFO Initializing Spring embedded WebApplicationContext
+2019-04-16 17:41:55,333 [main]  INFO Root WebApplicationContext: initialization completed in 2595 ms
+2019-04-16 17:41:55,546 [main]  INFO HikariPool-1 - Starting...
+2019-04-16 17:41:55,638 [main]  INFO HikariPool-1 - Start completed.
+2019-04-16 17:41:55,723 [main]  INFO HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-04-16 17:41:55,772 [main]  INFO HHH000412: Hibernate Core {5.3.9.Final}
+2019-04-16 17:41:55,773 [main]  INFO HHH000206: hibernate.properties not found
+2019-04-16 17:41:55,938 [main]  INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-16 17:41:56,043 [main]  INFO HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-16 17:41:56,471 [main]  INFO Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-04-16 17:41:56,989 [main]  INFO Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-16 17:41:57,024 [main]  WARN spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-04-16 17:41:57,150 [main]  INFO Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-16 17:41:57,152 [main]  INFO Started PaymentApplication in 5.327 seconds (JVM running for 10.566)
+2019-04-16 17:43:28,499 [http-nio-8080-exec-1]  INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-16 17:43:28,499 [http-nio-8080-exec-1]  INFO Initializing Servlet 'dispatcherServlet'
+2019-04-16 17:43:28,504 [http-nio-8080-exec-1]  INFO Completed initialization in 5 ms
+2019-04-16 17:43:28,785 [http-nio-8080-exec-1]  INFO HHH000397: Using ASTQueryTranslatorFactory

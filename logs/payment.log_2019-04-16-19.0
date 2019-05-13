@@ -1,0 +1,24 @@
+2019-04-16 19:10:24,139 [http-nio-8080-exec-7]  INFO Headers abcd
+2019-04-16 19:10:24,141 [http-nio-8080-exec-7]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 19:10:24,142 [http-nio-8080-exec-7]  INFO secret key not correct
+2019-04-16 19:10:24,238 [http-nio-8080-exec-7]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "OkRGjdOsESGXjAfCokLGuZ8gkGhX",
+  "expires_in" : "3599"
+}
+2019-04-16 19:10:24,326 [http-nio-8080-exec-7]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {
+  "access_token" : "acj24G6W0tPUq4hrzEJDaya83GAy",
+  "expires_in" : "3599"
+}
+2019-04-16 19:10:24,489 [http-nio-8080-exec-7]  INFO STATE 200 RESPONSE FROM MPESA GATEWAY: {"conversationID":"AG_20190416_0000727abeac97cd8233","originatorConverstionID":null,"responseDescription":"Accept the service request successfully.","OriginatorConverstionID":null,"ConversationID":"AG_20190416_0000727abeac97cd8233","ResponseDescription":"Accept the service request successfully."}
+2019-04-16 19:14:24,124 [http-nio-8080-exec-6]  INFO Headers abcd
+2019-04-16 19:14:24,124 [http-nio-8080-exec-6]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 19:14:24,124 [http-nio-8080-exec-6]  INFO secret key not correct
+2019-04-16 19:14:24,128 [http-nio-8080-exec-6]  INFO Headers abcd
+2019-04-16 19:14:24,129 [http-nio-8080-exec-6]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 19:14:24,129 [http-nio-8080-exec-6]  INFO secret key not correct
+2019-04-16 19:18:03,955 [http-nio-8080-exec-8]  INFO Headers abcd
+2019-04-16 19:18:03,956 [http-nio-8080-exec-8]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 19:18:03,956 [http-nio-8080-exec-8]  INFO secret key not correct
+2019-04-16 19:18:03,959 [http-nio-8080-exec-8]  INFO Headers abcd
+2019-04-16 19:18:03,959 [http-nio-8080-exec-8]  INFO IPAdress 0:0:0:0:0:0:0:1
+2019-04-16 19:18:03,959 [http-nio-8080-exec-8]  INFO secret key not correct
